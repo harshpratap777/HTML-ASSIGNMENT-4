@@ -10,12 +10,6 @@ To practice the use of:
 - `<table>` for data presentation
 - `<form>` elements for user input
 - `<audio>` and `<video>` for embedding media content
-
----
-
-## 📁 Project Structure
-
-
 ---
 
 ## 🧠 Key HTML Concepts Practiced
